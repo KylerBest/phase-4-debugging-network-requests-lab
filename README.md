@@ -62,12 +62,12 @@ developing your own process.
 
 - Add a new toy when the toy form is submitted
 
-  - How I debugged:
+  - How I debugged: Attempted creating a new toy, read error, fixed typo
 
 - Update the number of likes for a toy
 
-  - How I debugged:
+  - How I debugged: Compared #update to other working methods, added a json response
 
 - Donate a toy to Goodwill (and delete it from our database)
 
-  - How I debugged:
+  - How I debugged: Read error, added route
